@@ -1,0 +1,25 @@
+{
+    "name": "bailun/test",
+    "description": "nonono",
+    "type": "1",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "files": [
+        ],
+        "psr-4": {
+            "Siam\\": "src/siam"
+        }
+    },
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Berlain",
+            "email": "522957318@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
